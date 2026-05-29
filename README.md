@@ -6,3 +6,5 @@ This project is built upon the work of software developed primarily by Issac Len
 There are several updates I hope to make to when I have the time as well as some software bugs I'd like to iron out but in the meantime I hope this tool can still be of good use in teaching, research, recreation or study. 
 
 I would finally like to thank [Dr Timo Nieminen](https://smp.uq.edu.au/profile/158/timo-nieminen) for his guidance and help inspiring and overseeing the project. 
+
+
